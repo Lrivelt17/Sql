@@ -1,0 +1,8 @@
+1- rep) update students set grade_math =10 where student_id =1;
+
+
+2-rep) select avg(grade_math) from students;
+
+3- rep)alter table students add grade_english int after age;
+
+4-rep) delete from students where age= 19;
